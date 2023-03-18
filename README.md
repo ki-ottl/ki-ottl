@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&text=HI!)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&text=Hello%World!&fontSize=40)
 
 
 <!--
