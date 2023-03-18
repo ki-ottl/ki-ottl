@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&text=HI👋%20I%20AM%20JIWON!&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&text=HI👋%20I%20AM%20JIWON!&fontSize=50&animation=twinkling)
 
 
 <!--
