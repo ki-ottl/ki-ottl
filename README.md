@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=_custom_gradient&text=HI👋%20I%20AM%20JIWON!&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&text=HI👋%20I%20AM%20JIWON!&fontSize=40&animation=twinkling)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ki-ottl&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
