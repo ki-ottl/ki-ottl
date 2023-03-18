@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&text=HI👋 I AM JIWON!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&text=HI👋%I%AM%JIWON!&fontSize=40)
 
 
 <!--
