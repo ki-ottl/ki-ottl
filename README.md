@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&text=HI👋%20I%20AM%20JIWON✨&fontSize=40&animation=twinkling)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ki-ottl&theme=github-compact)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ki-ottl&theme=github-compact)]
 
 <!--
 **ki-ottl/ki-ottl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
